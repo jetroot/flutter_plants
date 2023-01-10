@@ -1,4 +1,4 @@
-# test
+# Plants app
 
 A new Flutter project.
 
